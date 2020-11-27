@@ -1,4 +1,4 @@
-**Description **
+**Description**
 
 Convolutional Neural Networks are heavily used for image classification tasks. 
 Here, we are using VGG-16 for Gender Classification.
