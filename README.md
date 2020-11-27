@@ -3,7 +3,7 @@
 Convolutional Neural Networks are heavily used for image classification tasks. 
 Here, we are using VGG-16 for Gender Classification.
 
-Dependencies:
+**Dependencies:**
 
 We are creating a virtualenv and loading neceassary libraires.
 
@@ -15,7 +15,7 @@ h5py>=2.10.0
 matplotlib>=3.2.1
 
 
-DataSet:
+**DataSet:**
 
 This dataset contains real world images with following Specifications
 
@@ -31,7 +31,7 @@ Download the Entire Adience Dataset using the following link :
 
 http://www.openu.ac.il/home/hassner/Adience/data.html
 
-Steps to run the project:
+**Steps to run the project:**
 
 1. Data Preparation:
 		Data_Generation_Adience.ipynb -> This File converts our data to H5 file named adience_1.h5
