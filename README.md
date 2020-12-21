@@ -52,8 +52,16 @@ http://www.openu.ac.il/home/hassner/Adience/data.html
 5. Prediction:
 		Perdict.ipynb file has predict function that returns prediction after taking images as an input.
 		
-		
-References:
+**Results**
+
+![alt text](https://github.com/shreyas-redij/Gender_Age_Prediction_CNN/blob/master/Images/Lady.JPG)
+
+![alt text](https://github.com/shreyas-redij/Gender_Age_Prediction_CNN/blob/master/Images/Oldman.JPG)
+
+![alt text](https://github.com/shreyas-redij/Gender_Age_Prediction_CNN/blob/master/Images/Sachin.JPG)
+
+
+**References:**
 1. Model Conversion from matlab to tensorflow https://sefiks.com/2019/07/15/how-to-convert-matlab-models-to-keras/
 2. Deep Learning for face recognition https://sefiks.com/2018/08/06/deep-facte-recognition-with-keras/
 3. VGG face literature http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
